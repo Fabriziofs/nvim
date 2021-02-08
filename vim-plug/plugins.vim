@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " Themes
     Plug 'morhetz/gruvbox' 
+    Plug 'joshdick/onedark.vim'
     Plug 'shinchu/lightline-gruvbox.vim' 
 
     " Better Syntax Support

@@ -9,7 +9,8 @@ source $HOME/.config/nvim/keys/mappings.vim
 source $HOME/.config/nvim/keys/fuctions.vim
 
 " Source here the theme you want
-source $HOME/.config/nvim/themes/gruvbox.vim
+"source $HOME/.config/nvim/themes/gruvbox.vim
+source $HOME/.config/nvim/themes/onedark.vim
 source $HOME/.config/nvim/themes/lightline.vim
 
 " Config files of the plugings
